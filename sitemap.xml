@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://loence.com/</loc>
+  <lastmod>2018-12-08T12:46:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://loence.com/index.html</loc>
+  <lastmod>2018-12-08T12:46:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/hrm.html</loc>
+  <lastmod>2018-12-08T06:50:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/accounting.html</loc>
+  <lastmod>2018-12-08T06:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/finance.html</loc>
+  <lastmod>2018-12-08T06:50:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/inventory.html</loc>
+  <lastmod>2018-12-08T06:50:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/manufacturing.html</loc>
+  <lastmod>2018-12-08T06:50:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/business.html</loc>
+  <lastmod>2018-12-08T06:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/clients.html</loc>
+  <lastmod>2018-12-08T06:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/blog.html</loc>
+  <lastmod>2018-12-08T06:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/about.html</loc>
+  <lastmod>2018-12-08T06:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loence.com/contact.html</loc>
+  <lastmod>2018-12-08T12:46:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
