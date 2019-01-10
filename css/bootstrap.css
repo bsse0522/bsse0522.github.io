@@ -2550,7 +2550,7 @@ tbody.collapse.in {
 }
 @media (min-width: 992px) {
     .navbar-right .dropdown-menu {
-        right: -183px;
+        right: 0px;
 
     }
     .navbar-right .dropdown-menu-left {

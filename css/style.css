@@ -264,7 +264,7 @@
      line-height:26px !important;
 }
  .text-large {
-     font-size: 15px !important;
+     font-size: 20px !important;
      line-height: 24px !important;
      letter-spacing: 2px !important;
 }
@@ -2852,7 +2852,7 @@
 /* =================================== Portfolio - ajax ====================================== */
 /* single #1 */
  .half-project-img{
-     height: 550px;
+     height: 450px;
      background-position: center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
@@ -7953,7 +7953,7 @@
  .our-process .icon img {
     display: inline-block;
      vertical-align: middle;
-     margin-right: 20px;
+     margin-right: 10px;
 }
  .our-process .icon .title {
     line-height: 23px !important;
@@ -8336,4 +8336,20 @@ body {
     margin-left: auto;
     margin-right: auto;
     max-height: 265px;
+    }
+
+    .font-22px {
+        font-size: 22px !important;
+    }
+
+    .image15 {
+        width: 60px;
+    }
+
+    .hback1 {
+        background-color: #28a1da;
+    }
+
+    .our-process .col-md-6 {
+        min-height: 250px;
     }
