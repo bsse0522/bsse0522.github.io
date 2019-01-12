@@ -212,7 +212,7 @@
      margin-bottom:0px;
 }
  h1.title {
-     font-size:60px;
+     font-size:45px;
      font-weight:700;
      line-height:65px;
      margin-bottom:0px;
@@ -2904,7 +2904,7 @@
     padding:5px
 }
  .project-header-text {
-     margin-top: 30%;
+     margin-top: 20%;
      position: relative;
      text-align: center;
      width: 100%;
@@ -7570,7 +7570,6 @@
      -o-transform: scale(1.2);
      -ms-transform: scale(1.2);
      transform: scale(1.2);
-     cursor:url("../images/icon-zoom-white.png"), pointer;
 }
  .travel-adventure figure {
      position:absolute;
@@ -8352,4 +8351,13 @@ body {
 
     .our-process .col-md-6 {
         min-height: 250px;
+    }
+
+    .h1mp {
+        margin: 0;
+        padding: 0 0 0 40px;
+    }
+
+    .linehight35 {
+        line-height: 35px !important;
     }
