@@ -38,9 +38,21 @@ var conversionMaps = [
 	},
 
 	{
-		source: 'hrm.ejs',
-		destination: 'hrm.html'
+		source: 'human-resource-management/index.ejs',
+		destination: 'human-resource-management/index.html'
 	},
+	{
+		source: 'human-resource-management/employee-management.ejs',
+		destination: 'human-resource-management/employee-management.html'
+	},
+
+	{
+		source: 'supply-chain-management/index.ejs',
+		destination: 'supply-chain-management/index.html'
+	},
+
+
+
 
 ];
 

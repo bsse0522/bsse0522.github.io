@@ -1903,7 +1903,7 @@
 /* =================================== Section ====================================== */
 /* features section */
  .features-section {
-     margin-bottom:80px;
+     margin-bottom:40px !important;
      float:left
 }
  .features-section .col-xs-3 {
@@ -7581,11 +7581,7 @@
      width:100%;
      top:50%;
 }
- .travel-adventure a {
-    display:block;
-     position:relative;
-     z-index:2
-}
+
  .special-offers {
     min-height:378px
 }
