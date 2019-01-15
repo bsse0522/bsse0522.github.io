@@ -4494,7 +4494,6 @@
      display: block;
      padding: 10px 18px;
      border: 1px solid rgba(0,0,0,.1);
-     text-transform: uppercase
 }
  .panel-body {
      padding:10px 18px 25px 18px;
@@ -7942,7 +7941,7 @@
 }
  .our-process .icon {
     display: inline-block;
-     min-height: 85px;
+     min-height: 36px;
      margin-bottom: 20px;
 }
  .our-process .icon img {
@@ -8338,7 +8337,7 @@ body {
     }
 
     .image15 {
-        width: 60px;
+        width: 20px;
     }
 
     .hback1 {
@@ -8346,7 +8345,7 @@ body {
     }
 
     .our-process .col-md-6 {
-        min-height: 250px;
+        min-height: 200px;
     }
 
     .h1mp {
@@ -8357,3 +8356,38 @@ body {
     .linehight35 {
         line-height: 35px !important;
     }
+
+
+    .bcmodule {
+        background-color: #f8f7f7;
+    }
+
+    @media (max-width: 767px) {
+        .project-header-text {
+            margin-top: 45% !important;
+        }
+    }
+
+.panelsubmodule {
+    font-size: 14px;
+    padding: 18px;
+}
+
+.panelsubmodulep {
+    font-size: 14px;
+    color: black;
+}
+
+.bodystyle {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.features-section h5 {
+    font-size: 18px !important;
+}
+
+.features-section p {
+    font-size: 16px;
+    line-height: 31px;
+}
