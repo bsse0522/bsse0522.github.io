@@ -265,7 +265,7 @@
 }
  .text-large {
      font-size: 20px !important;
-     line-height: 24px !important;
+     line-height: 30px !important;
      letter-spacing: 2px !important;
 }
  .text-extra-large {
@@ -8344,10 +8344,6 @@ body {
         background-color: #28a1da;
     }
 
-    .our-process .col-md-6 {
-        min-height: 200px;
-    }
-
     .h1mp {
         margin: 0;
         padding: 0 0 0 40px;
@@ -8366,7 +8362,20 @@ body {
         .project-header-text {
             margin-top: 45% !important;
         }
+        .image15 {
+            display: none !important;
+        }
+        .width-90 {
+            width: 100% !important;
+        }
     }
+
+@media (min-width: 767px) {
+    .our-process .col-md-6 {
+        min-height: 200px;
+    }
+}
+
 
 .panelsubmodule {
     font-size: 14px;
@@ -8390,4 +8399,8 @@ body {
 .features-section p {
     font-size: 16px;
     line-height: 31px;
+}
+
+.margin-0 {
+    margin: 0px;
 }

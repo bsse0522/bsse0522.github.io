@@ -23,18 +23,8 @@ var conversionMaps = [
 	},
 
 	{
-		source: 'basicsubmodule.ejs',
-		destination: 'basicsubmodule.html'
-	},
-
-	{
-		source: 'basicmodule.ejs',
-		destination: 'basicmodule.html'
-	},
-
-	{
-		source: 'testhrm.ejs',
-		destination: 'testhrm.html'
+		source: 'career.ejs',
+		destination: 'career.html'
 	},
 
 	{
@@ -44,6 +34,31 @@ var conversionMaps = [
 	{
 		source: 'human-resource-management/employee-management.ejs',
 		destination: 'human-resource-management/employee-management.html'
+	},
+
+	{
+		source: 'human-resource-management/holiday-management.ejs',
+		destination: 'human-resource-management/holiday-management.html'
+	},
+
+	{
+		source: 'human-resource-management/leave-toil-overtime-management.ejs',
+		destination: 'human-resource-management/leave-toil-overtime-management.html'
+	},
+
+	{
+		source: 'human-resource-management/payroll-processing.ejs',
+		destination: 'human-resource-management/payroll-processing.html'
+	},
+
+	{
+		source: 'human-resource-management/scheduling-and-rostering.ejs',
+		destination: 'human-resource-management/scheduling-and-rostering.html'
+	},
+
+	{
+		source: 'human-resource-management/time-tracking-and-attendance.ejs',
+		destination: 'human-resource-management/time-tracking-and-attendance.html'
 	},
 
 	{
