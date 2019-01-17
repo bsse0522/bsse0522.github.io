@@ -131,22 +131,164 @@ var conversionMaps = [
 		destination: 'supply-chain-management/work-order-processing.html'
 	},
 
-
 	{
 		source: 'financial-accounting/index.ejs',
 		destination: 'financial-accounting/index.html'
 	},
+
+	{
+		source: 'financial-accounting/asset-management',
+		destination: 'financial-accounting/asset-management.html'
+	},
+
+	{
+		source: 'financial-accounting/balance-sheet.ejs',
+		destination: 'financial-accounting/balance-sheet.html'
+	},
+
+	{
+		source: 'financial-accounting/bank-reconciliation.ejs',
+		destination: 'financial-accounting/bank-reconciliation.html'
+	},
+
+	{
+		source: 'financial-accounting/income-statement.ejs',
+		destination: 'financial-accounting/income-statement.html'
+	},
+
+	{
+		source: 'financial-accounting/invoices.ejs',
+		destination: 'financial-accounting/invoices.html'
+	},
+
+	{
+		source: 'financial-accounting/journal.ejs',
+		destination: 'financial-accounting/journal.html'
+	},
+
+	{
+		source: 'financial-accounting/lc-management.ejs',
+		destination: 'financial-accounting/lc-management.html'
+	},
+
+	{
+		source: 'financial-accounting/ledger.ejs',
+		destination: 'financial-accounting/ledger.html'
+	},
+
+	{
+		source: 'financial-accounting/owners-equity-statement.ejs',
+		destination: 'financial-accounting/owners-equity-statement.html'
+	},
+
+	{
+		source: 'financial-accounting/statement-of-cash-flow.ejs',
+		destination: 'financial-accounting/statement-of-cash-flow.html'
+	},
+
+	{
+		source: 'financial-accounting/vouchers.ejs',
+		destination: 'financial-accounting/vouchers.html'
+	},
+
 	{
 		source: 'manufacturing-process-management/index.ejs',
 		destination: 'manufacturing-process-management/index.html'
 	},
+
+	{
+		source: 'manufacturing-process-management/manage-assembling.ejs',
+		destination: 'manufacturing-process-management/manage-assembling.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/manage-byproducts-scraps-defects.ejs',
+		destination: 'manufacturing-process-management/manage-byproducts-scraps-defects.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/manage-coloring.ejs',
+		destination: 'manufacturing-process-management/manage-coloring.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/index.ejs',
+		destination: 'manufacturing-process-management/index.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/manage-machineries.ejs',
+		destination: 'manufacturing-process-management/manage-machineries.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/manage-construction.ejs',
+		destination: 'manufacturing-process-management/manage-construction.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/manage-manufacturing-departments.ejs',
+		destination: 'manufacturing-process-management/manage-manufacturing-departments.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/manage-manufacturing-target.ejs',
+		destination: 'manufacturing-process-management/manage-manufacturing-target.html'
+	},
+
+	{
+		source: 'manufacturing-process-management/manage-packaging.ejs',
+		destination: 'manufacturing-process-management/manage-packaging.html'
+	},
+
 	{
 		source: 'business-process-management/index.ejs',
 		destination: 'business-process-management/index.html'
 	},
+
+	{
+		source: 'business-process-management/associating-resources-management.ejs',
+		destination: 'business-process-management/associating-resources-management.html'
+	},
+
+	{
+		source: 'business-process-management/bpm-reports.ejs',
+		destination: 'business-process-management/bpm-reports.html'
+	},
+
+	{
+		source: 'business-process-management/designing-unlimited-workflows.ejs',
+		destination: 'business-process-management/designing-unlimited-workflows.html'
+	},
+
+	{
+		source: 'business-process-management/budget-management.ejs',
+		destination: 'business-process-management/budget-management.html'
+	},
+
 	{
 		source: 'business-intelligence/index.ejs',
 		destination: 'business-intelligence/index.html'
+	},
+
+	{
+		source: 'business-intelligence/analytics.ejs',
+		destination: 'business-intelligence/analytics.html'
+	},
+
+	{
+		source: 'business-intelligence/forecasting.ejs',
+		destination: 'business-intelligence/forecasting.html'
+	},
+
+	{
+		source: 'business-intelligence/planning.ejs',
+		destination: 'business-intelligence/planning.html'
+	},
+
+	{
+		source: 'business-intelligence/reports.ejs',
+		destination: 'business-intelligence/reports.html'
 	},
 
 
