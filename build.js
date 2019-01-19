@@ -28,6 +28,11 @@ var conversionMaps = [
 	},
 
 	{
+		source: 'leadership.ejs',
+		destination: 'leadership.html'
+	},
+
+	{
 		source: 'human-resource-management/index.ejs',
 		destination: 'human-resource-management/index.html'
 	},
