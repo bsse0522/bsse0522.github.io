@@ -8,8 +8,8 @@ var conversionMaps = [
 	},
 
 	{
-		source: 'about.ejs',
-		destination: 'about.html'
+		source: 'about/about.ejs',
+		destination: 'about/about.html'
 	},
 
 	{
@@ -23,13 +23,17 @@ var conversionMaps = [
 	},
 
 	{
-		source: 'career.ejs',
-		destination: 'career.html'
+		source: 'about/career.ejs',
+		destination: 'about/career.html'
 	},
 
 	{
-		source: 'leadership.ejs',
-		destination: 'leadership.html'
+		source: 'about/supervisory-board.ejs',
+		destination: 'about/supervisory-board.html'
+	},
+	{
+		source: 'about/executive-board.ejs',
+		destination: 'about/executive-board.html'
 	},
 
 	{
