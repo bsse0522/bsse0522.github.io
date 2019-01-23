@@ -8,6 +8,12 @@ var conversionMaps = [
 	},
 
 	{
+		source: 'user-manual/index.ejs',
+		destination: 'user-manual/index.html'
+	},
+
+
+	{
 		source: 'about/about.ejs',
 		destination: 'about/about.html'
 	},
